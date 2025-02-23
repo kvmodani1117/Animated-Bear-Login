@@ -1,0 +1,6 @@
+
+.bear-avatar {
+  border-radius: 50%;
+  transition: all 0.2s ease-in-out;
+  object-fit: contain;
+}
